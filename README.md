@@ -1,12 +1,12 @@
-h3. Requirements
-* Python and packages
+# Requirements
+* Python and packages:
 ** python 3.7+
 ** pika 1.0.0+
 ** mysql-connector 2.1.6+
 * mysql server 8.0+
 * rabbitmq 3.7.13
 
-h3. Usage details
+# Usage details
 1. DBand table name:
 ```
 create database test;
