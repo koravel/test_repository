@@ -1,8 +1,8 @@
 # Requirements
 * Python and packages:
-** python 3.7+
-** pika 1.0.0+
-** mysql-connector 2.1.6+
+  - python 3.7+
+  - pika 1.0.0+
+  - mysql-connector 2.1.6+
 * mysql server 8.0+
 * rabbitmq 3.7.13
 
